@@ -1,28 +1,32 @@
 # Summarization Papers
-A collection of summarization papers.
-Papers are added as issues.
+自動要約の論文をまとめるリポジトリです。
 
 ## Format
-A paper is represented as an issue.
-The title of the issue should include the title of the paper, author(s) and the conference/journal proposed as below.
+論文はIssueに登録します。
+### タイトル
+Issueのタイトルは以下のように、論文名、著者名(複数の場合は+で省略)、発表会議を記載します。
 
 ``Abstractive Document Summarization with a Graph-Based Attentional Neural Model, Jiwei Tan, Xiaojun Wan and Jianguo Xiao, ACL2017``
 
-In the body of the issue, you can feely write a description of the paper.
-No specific format exists to describe, but it is recommended to include the overview, the relation to the previous work, brief explanation of the model proposed, the dataset used, evaluation metrics and conclusions/future directions.
+### 投稿フォーマット
+以下の投稿フォーマットを推奨しています。
 
-In the comments, anyone can discuss or add information to support the understanding of the paper.
+投稿後さらに追記する場合には、Assigneeに自分を設定してください。
+Assigneeが設定されていないIssueについては、自由に情報を追加してもらって構いません。
 
-## Categorization by Labels
-Each paper is categorized by labels.
-### Type of Task
-Sentence, Document, Multi-Document or etc.
-### Type of Methodology
-Abstractive or Extractive
-### Dataset
-CNN/Daily or DUC2014 or etc.
-### Conrefence
-ACL2017, CoNLL2016, ... etc.
+    # 概要
+    
+    # 著者
+    
+    
+    # 手法
+    
+    # 実験設定・使用データ
+    
+    # 結果
+    
+## ラベル
+ラベルで手法やタスクの分類を行っています。作成したIssueに対し、Contributerが付与します。
 
 ## Contribution
-Anyone who is interested in Text Summarization is welcomed to create new descriptions of papers and add comments.
+自動要約に興味のある方は、どなたでもIssueを自由に作成してください。
