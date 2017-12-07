@@ -6,7 +6,7 @@
 ### タイトル
 Issueのタイトルは以下のように、論文名、著者名(複数の場合は+で省略)、発表会議を記載します。
 
-``Abstractive Document Summarization with a Graph-Based Attentional Neural Model, Jiwei Tan, Xiaojun Wan and Jianguo Xiao, ACL2017``
+``Abstractive Document Summarization with a Graph-Based Attentional Neural Model, Tan+, ACL2017``
 
 ### 投稿フォーマット
 以下の投稿フォーマットを推奨しています。
